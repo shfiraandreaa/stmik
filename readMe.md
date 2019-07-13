@@ -3,4 +3,4 @@ sistem ini menggunakan html, css, php dan javascript
 
 
 ## preview
-(images/preview.png)
+![preview](images/preview.png)
