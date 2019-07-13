@@ -32,7 +32,7 @@
 			</div>
 			
 			<div class="kanan">
-				<img src="images/stmik.jpg"/>
+				<img src="images/mardiraa.jpg"/>
 				<h4 class="warning"><?=$status?></h4>
 					<form method="post" action="controller/verifikasiLogin.php">
 						<input name="username" type="text" placeholder="Username"><br>
