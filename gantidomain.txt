@@ -1,0 +1,10 @@
+
+VIRTUAL HOST 
+=============
+di : 
+- C:\xampp\apache\conf\extra\httpd-vhosts.conf
+- C:\windows\system32\drivers\etc\host
+
+daftarkan nama Domain.com / Domain.co.id dst yg kamu inginkan,
+lalu restart Xampp (stop & start). 
+Test akses di browser! :)

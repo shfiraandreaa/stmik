@@ -1,0 +1,82 @@
+
+.utama{
+	margin:auto;
+	width:56%;
+	height:500px;
+}
+.kiri , .kanan{
+	width:362px;
+	height:500px;
+}
+.kiri{
+	background-image:url("images/gedung.jpg");
+	background-size:cover;
+	float:left;
+}
+.kanan{
+	float:left;
+	text-align:center;
+	background-color: white;
+}
+
+.kanan input[type=text],.kanan input[type=password], .kanan input[type=submit]{
+	margin-top:50px;
+}
+.wadah-image{
+	margin:auto;
+	width:300px;
+	height:72px;
+	text-align:center;
+	bottom:296px;
+	position:absolute;
+	margin-left:30px;
+}
+.wadah-image span{
+	display:inline-block;
+	width:297px;
+	height:20px;
+	text-align:center;
+}
+.wadah-image img{
+	border-radius:50%;
+}
+form div{
+	margin-right:58px;
+}
+form input[type=submit]{
+	margin-bottom:40px;
+	color:white;
+}
+.kanan input[type=submit]{
+	background-color:#3c78dc;
+	border-radius:10px;
+	width:200px;
+	height:50px;
+}
+body{
+	background-image:url("images/bg.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.kanan input[type=text] , .kanan input[type=password]{
+	height:30px;
+	border-radius:5px;
+}
+.kanan img{
+	width:83px;
+	height:90px;
+	margin-top:20px;
+}
+.warning{
+	color:red;
+}
+.preload{
+	display:none;
+}
+.btn-submit{
+	background-color:#3c78dc;
+	border-radius:10px;
+	width:200px;
+	height:50px;
+	color:white;
+}

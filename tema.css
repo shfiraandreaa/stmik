@@ -1,0 +1,88 @@
+.konten{
+	float:left;
+	width:1015px;
+	height:500px;
+	padding-left:80px;
+	background-color:#85929E ;  
+}
+
+.home{
+	background-image:url("images/bg-dark01.jpg");
+	float:left;
+	width:15%;
+	height:570px;
+}
+.atas{
+	background-image:url("images/bg-dark01.jpg");
+	width:100%;
+	height:60px;
+}
+.logout{
+	padding-top:4px;
+	width: 70px;
+	display:block;
+	float: right;
+}
+.home img{
+	width:40px;
+	height:40px;
+}
+.logo{
+	width:160px !important;
+	height:156px !important;
+}
+.atas img{
+	margin-left:20px;
+	margin-top:5px;
+	width:50px;
+	height:50px;
+}
+.atas .isi{
+	width:30%;
+	height:50px;
+	display:inline;
+}
+.isi{
+	float:right;
+	position:relative;
+}
+.home .item{
+	
+	width:198px;
+	height:60px;
+	position:relative;
+	color:white;
+	cursor:pointer;
+}
+.home .item:hover{
+	background-image:url("images/bg-dark02.jpg");
+	background-size:cover;
+}
+.home img{
+	margin-top:20px;
+}
+.home span{
+	position: absolute;
+	bottom:20px;
+}
+.atas span{
+	position:absolute;
+	bottom:5px;
+	color:white;
+	cursor:pointer;
+}
+.atas img:hover{
+	background-image:url("images/bg-dark02.jpg");
+	background-size:cover;
+	cursor:pointer;
+}
+.utama{
+	width:100%;
+	height:570px;
+}
+.subitem{
+	width:198px;
+	height:60px;
+	margin-left: 70px;
+    display: none;
+}

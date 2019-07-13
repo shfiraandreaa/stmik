@@ -1,0 +1,44 @@
+textarea{
+	height:300px;
+}
+
+.kiri , .kanan{
+	width:15%;
+	height:321px;
+}
+.utama{
+	width:100%;
+	height:356px;
+}
+.kanan{
+	float:left;
+	padding-top:14px;
+	width:32% !important;
+}
+.kiri{
+	float:left;
+}
+input[type=submit]{
+	float:none;
+	clear:left;
+	margin-top:130px;
+	display:block;
+}
+.nim{
+	margin-top:0px !important;
+}
+input[type=text] , input[type=number] , input[type=e-mail] , input[type=password]{
+	margin-top:15px;
+}
+button{
+	display: block;
+    clear: left;
+}
+.jr{
+	width: 200px;
+    margin-top: 10px;
+}
+.fk{
+	width:100px;
+	margin-top:10px;
+}

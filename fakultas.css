@@ -1,0 +1,21 @@
+.kiri , .kanan{
+	width:15%;
+	height:50px;
+}
+.utama{
+	width:100%;
+	height:100px;
+}
+.kanan{
+	float:left;
+	padding-top:14px;
+}
+.kiri{
+	float:left;
+}
+input[type=submit]{
+	float:none;
+	clear:left;
+	margin-top:100px;
+	display:block;
+}

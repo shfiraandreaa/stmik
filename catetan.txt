@@ -1,0 +1,17 @@
+kalau dari addres itu get, kalau dari form itu post, kalau dari hidden namun bisa diakses semua page itu session
+
+kirim email dari xampp
+1. buka xampp
+2. ke folder sendmail
+3. ke sendmail.ini
+4. ganti di smtp_server=smtp.gmail.com
+5. smtp_port=587 (587 ini punya gmail)
+6. auth_username= (isi dengan email pengirim)
+	auth_password=(pass email pengirim)
+7. force_sender=(email pengirim)
+8. lalu ke folder php
+9. buka php.ini
+10. ke [email function]
+11. ubah ini smtp_port = 587
+12. lalu aktifkan sendmail_path = "\"\xampp\sendmail\sendmail.exe\" -t"
+13. restart xampp

@@ -1,0 +1,9 @@
+1. tiru pembuatan controller/simpansiswa.php terhadap simpentitylain.php
+2. ubah varibel $_POST['namadarielement'];
+// berasal dari formulir masing2
+3. gunakan perubahan sql : INSERT into namaTable dan variabel yg mengiringinya
+4. edit form action ="controller/simpantitylain.php"
+dan pakai method="post"
+5. test di browser!
+guru.html, fakultas.htl, matakuliah.html dan nilai.html
+---> pastikan data tersimpan ke mysql!

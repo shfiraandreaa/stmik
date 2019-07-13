@@ -1,0 +1,27 @@
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="formulir.css">
+		<title>matakuliah</title>
+	</head>
+	
+	<body>
+		<form method="post" action="controller/simpanmatakuliah.php">
+			<div class="utama">
+				<input type="hidden" name="id">
+				
+				<div class="kiri">
+					<p>nama</p>
+					<p>jumlah sks</p>
+					<p>fakultas</p>
+				</div>
+				
+				<div class="kanan">
+					<input type="text" name="nama" placeholder="nama">
+					<input type="number" name="jumlah_sks" placeholder="jumlah sks">
+					<input type="text" name="fakultas" placeholder="fakultas">
+				</div>
+					<input type="submit" value="simpan">
+			</div>
+		</form>
+	</body>
+</html>
