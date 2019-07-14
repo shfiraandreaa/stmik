@@ -1,8 +1,8 @@
-## stmik open source website
+## STMIK open source website
 sistem ini menggunakan html, css, php dan javascript
 
 
-## preview
+## Preview
 ![preview](images/preview.png)
 
 ## Database
@@ -12,7 +12,7 @@ otomatis akan tercipta 8 table berikut datanya
 
 ![preview](images/preview2.png)
 
-## contact
+## Contact
 intrested untuk menggembangkan hal serupa? Contact Me
 Shafira Andrea : firaandreaa06@gmail.com, Student of : Stmik Mardira Indonesia University
  
